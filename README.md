@@ -3,9 +3,12 @@
 - 郭瑞昌/1999.04.16/男
 - 现就读于南京工业职业技术学校
 - 热爱编程，喜欢Web方面的一些东西，也热衷于了解一些网络上的技术
+- 我的个人主页：[https://www.jianshu.com/u/249b62f39295](https://www.jianshu.com/u/249b62f39295)
+- 我的GitHub地址：[https://github.com/48038411](https://github.com/48038411)
+- 期望职位：Java工程师
+- 城市：南京
 ## 我的照片
-![我的简书头像](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1552899055&di=8aa5eb82f98493e5e14ef4146d8ecc00&imgtype=jpg&er=1&src=http%3A%2F%2Fpic.58pic.com%2F58pic%2F13%2F87%2F52%2F73k58PICvqi_1024.jpg)
-## 教育经历
-初中 | 高中| 大学
+![我的简书头像](https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1552294907&di=c93869bbd64236c3c243ade7b9166dc2&src=http://img3.duitang.com/uploads/item/201506/23/20150623222404_2HLWx.jpeg)
+初中 | 高中|  大学
 :----------- | :-----------: | -----------:
 山西省霍州市第三中学         | 山西省霍州市第一中学        | 南京工业职业技术学院
