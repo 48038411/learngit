@@ -9,6 +9,12 @@
 - 城市：南京
 ## 我的照片
 ![我的简书头像](https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1552294907&di=c93869bbd64236c3c243ade7b9166dc2&src=http://img3.duitang.com/uploads/item/201506/23/20150623222404_2HLWx.jpeg)
-初中 | 高中|  大学
+## 我的教育经历
+- 跟随老师做过一个超市管理系统
+- 我的学校
+初中 | 高中| 大学
 :----------- | :-----------: | -----------:
 山西省霍州市第三中学         | 山西省霍州市第一中学        | 南京工业职业技术学院
+## 我的兴趣爱好
+- [x] Java，PHP，web
+- [x] 打篮球
